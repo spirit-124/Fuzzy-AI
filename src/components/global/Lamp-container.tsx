@@ -2,7 +2,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { SparklesCore } from "./Sparkles";
+import { SparklesCore } from "./sparkles";
 
 export function LampComponent() {
   return (
